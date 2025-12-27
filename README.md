@@ -1,4 +1,4 @@
-# Key-Value REST API (Docker course project)
+# Key-Value REST API ([Docker course project](https://www.udemy.com/course/complete-docker-kubernetes/))
 
 This repository contains a small key-value REST API implemented with Node.js, Express and MongoDB. It was built as part of a Docker course to demonstrate packaging a simple service in a container and running it together with a MongoDB instance. This version is from before introducing Docker Compose — the project shows how to run the database and backend using individual Docker containers and helper scripts.
 
